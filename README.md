@@ -365,7 +365,7 @@ $ npx webpack --config webpack.config.js
 
 ## 부록 간단한 웹 서버 만들기
 
-koaJS 를 사용한 간단한 웹서버를 지금까지 설정 한 webpack 으로 준비 해 보겠다.
+koaJS 를 사용한 간단한 웹서버를 지금까지 해본 babel 을 참고하여 es6 형식으로 작성 해보겠다.
 
 먼저 koajs 디펜던시를 추가한다.
 
