@@ -413,7 +413,7 @@ app.listen(PORT, () => console.log(`Server Running At PORT: ${PORT}`));
 
 `npm run build` 바벨을 이용하여 빌드한다.
 
-`dev` nodemon 을 이용하여 개발 할 수 있도록 해준다.
+`npm run dev` nodemon 을 이용하여 개발 할 수 있도록 해준다.
 
 이제 다음과 같이 실행하면 웹 서버가 실행 되는 걸 볼 수 있다.
 
