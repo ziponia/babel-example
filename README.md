@@ -18,6 +18,7 @@ import var from 'module';
 
 - node -v v10.14.2
 - npm -v 6.4.1
+- window 10 
 
 ## step1. 프로젝트 생성하기
 
